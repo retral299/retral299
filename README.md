@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 
 
 <a href=&quothttps://github.com/retral299&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=retral299&show_icons=true&count_private=true&include_all_commits=true&quot &theme=dracula/>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=retral299&quot />
-</a>
-
+<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=retral299&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
