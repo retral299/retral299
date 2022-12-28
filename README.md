@@ -178,9 +178,7 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
   <details>
  <summary></summary>
  <br />
- </details>
- 
- ### Stats
+ </details>### Stats
  
  ---
 
