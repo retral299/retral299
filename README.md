@@ -9,7 +9,7 @@
 #### Hey everyone <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="20px">
 
 <!-- About -->
-<strong>I</strong> am a telecommunication programmer who developing AI algorithms, <a href='http://nnedi.blogspot.com/2019/10/africanfuturism-defined.html'>#africanfuturism</a> advocate, Writer.
+<strong>I</strong> am a telecommunication programmer who developing ML and RL algorithms
             
 Tech Stack 🔧 : 
 - JavaScript <strong>--</strong> Typescript
