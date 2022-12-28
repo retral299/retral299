@@ -171,14 +171,6 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
     </tbody>
 </table>
 
-### 🗣 Public Speaking
-
-* [Open Source Community Africa 2022 - [Tech Conference]](https://festival.oscafrica.org/) `March 26` `2022` - [YouTube Video](https://youtu.be/vSDCagLggQ0)
-
-### 📝 Technical Writing
-
-- [Dev.to](https://dev.to/danbmky)
-- [Hashnode](https://hashnode.com/@danbmky)
 
 ### ⚡ Hobbies
 
