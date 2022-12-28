@@ -1,34 +1,15 @@
 
 
-<!--
-### Hi there 👋
-
-**retral299/retral299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-<!-- Header gif -->
-
-# <p align='center'>[![Hey there, I'm Dan. I'm a software developer. Check out my work](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif "Dan Bamikiya")](https://danbamikiya.github.io/danBamikiya/)<p>
+# <p align='center'>[![Hey there, I'm It's Mahdi. I'm a software developer.Check out my work](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif "Mahdial")](https://danbamikiya.github.io/danBamikiya/)<p>
 
 
 
 <!-- Greeting -->
 
-#### Hey-lo Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="20px">
+#### Hey everyone <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="20px">
 
 <!-- About -->
-<strong>I</strong> am a JavaScript Engineer building Web3 tooling for the JavaScript ecosystem, Occasional Speaker, <a href='http://nnedi.blogspot.com/2019/10/africanfuturism-defined.html'>#africanfuturism</a> advocate, Writer.
+<strong>I</strong> am a telecommunication programmer who developing AI algorithms, <a href='http://nnedi.blogspot.com/2019/10/africanfuturism-defined.html'>#africanfuturism</a> advocate, Writer.
             
 Tech Stack 🔧 : 
 - JavaScript <strong>--</strong> Typescript
