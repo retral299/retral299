@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!--
 **retral299/retral299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-
-<a href=&quothttps://github.com/retral299&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api?username=retral299&show_icons=true&count_private=true&include_all_commits=true&quot /></a>
+-->
