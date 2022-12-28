@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
 # <p align='center'>[![Hey there, I'm Dan. I'm a software developer. Check out my work](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif "Dan Bamikiya")](https://danbamikiya.github.io/danBamikiya/)<p>
 
- **<p align='center'>This header 👆 is actually [live](https://danbamikiya.github.io/danBamikiya/)!</p>**
 
 
 <!-- Greeting -->
