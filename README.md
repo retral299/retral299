@@ -211,7 +211,7 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
 
 
 <details>
-            <summary>Projects I'd <b>love</b> to contribute to</summary>
+           
             <br />
             <ol>
                         <li><a href="https://github.com/desktop/desktop">desktop/desktop</a> - Official Github Desktop app (Electron+Typescript+React+Sass)</li>
@@ -224,4 +224,4 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
 
 <!-- [Someone called me a genius](https://www.linkedin.com/feed/update/urn:li:activity:6852679343093637120?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6852679343093637120%2C6852763862253506560%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A6852679343093637120%2C6852914428137086976%29) on LinkedIn. I guess I'm one 🤷‍♂️ -->
 
-**Fun Fact**: I'm multilingual. I know English(native), Yoruba, some Effik and some Kiswahili :)
+
