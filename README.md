@@ -63,9 +63,8 @@ Other interests: Game theory, Cyber security & Multi Agent reinforecement learni
 ### ⚡ Hobbies
 
   ---
-  <details>
  <summary></summary>
  <br />
- </details> 
+
 
 
