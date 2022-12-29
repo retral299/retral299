@@ -1,7 +1,7 @@
 
 
-# <p align='center'>[![Hey there, I'm It's Mahdi. I'm a software developer.Check out my work](https://github.com/retral299/retral299/edit/main//6tIB.gif
-"Mahdial")](https://danbamikiya.github.io/danBamikiya/)<p>
+# <p align='center'>[![Hey there, I'm Mahdi. I'm a software developer.Check out my work](https://github.com/retral299/retral299/edit/main//6tIB.gif
+"Mahdial")]<p>
 
 
 
