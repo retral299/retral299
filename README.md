@@ -6,7 +6,7 @@
 
 <!-- Greeting -->
 
-#### Hey everyone
+#### Hey everyone it's Mahdi
 
 <!-- About -->
 <strong>I</strong> am a telecommunication programmer who developing ML and RL algorithms
