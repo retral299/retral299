@@ -1,6 +1,6 @@
 
 
-# <p align='center'>[(https://raw.githubusercontent.com/retral299/retral299/main/6tIB.gif "Mahdial")]
+# <p align='center'>[!(https://raw.githubusercontent.com/retral299/retral299/main/6tIB.gif "Mahdial")]
 
 
 
