@@ -34,25 +34,25 @@ Other interests: Game theory, DQN & Multi Agent reinforecement learning
     </thead>
     <tbody>
        <tr>
-        <td width="400"><a href="https://github.com/docker/docker.github.io"><b>******</b></a></td>
+        <td width="400"><a href=""><b>***********</b></a></td> <!--projlink-->
         <td>
-            <a href="https://github.com/docker/docker.github.io/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <a href="">Contributions</a> <!--contjlink-->
             <p><i>Code</i></p>
             <i>description line</i>
         </td>
       </tr>
       <tr>
-        <td width="400"><a href="https://github.com/babel/website"><b>**********</b></a></td>
+        <td width="400"><a href=""><b>**********</b></a></td> <!--projlink-->
         <td>
-            <a href="https://github.com/babel/website/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <a href="">Contributions</a> <!--contjlink-->
             <p><i>Code</i></p>
             <i>description line</i>
         </td>
       </tr>
       <tr>
-        <td width="400"><a href="https://github.com/github/docs"><b>***********</b></a></td>
+        <td width="400"><a href=""><b>***********</b></a></td> <!--projlink-->
         <td>
-            <a href="https://github.com/github/docs/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <a href="">Contributions</a>  <!--contjlink-->
             <p><i>Code</i></p>
             <i>description line</i>
         </td>
