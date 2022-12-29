@@ -6,7 +6,7 @@
 
 <!-- Greeting -->
 
-#### Hey everyone <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="20px">
+#### Hey everyone <img src="" width="20px">
 
 <!-- About -->
 <strong>I</strong> am a telecommunication programmer who developing ML and RL algorithms
