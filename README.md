@@ -42,7 +42,7 @@ Other interests: Game theory, DQN & Multi Agent reinforecement learning
         </td>
       </tr>
       <tr>
-        <td width="400"><a href=""><b>**********</b></a></td> <!--projlink-->
+        <td width="400"><a href=""><b>***********</b></a></td> <!--projlink-->
         <td>
             <a href="">Contributions</a> <!--contjlink-->
             <p><i>Code</i></p>
