@@ -22,8 +22,7 @@ Programming languages and main skills:
 Other interests: Game theory, DQN & Multi Agent reinforecement learning
 
 <br />
-
-<h2 id="contributions">Open Source contributions I'm proud of</h2>
+<h2 id="contributions">Projects I'm proud of</h2>
 
 <table>
     <thead align="center">
