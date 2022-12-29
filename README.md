@@ -1,12 +1,13 @@
 
 
-# <p align='center'>[![Hey there, I'm It's Mahdi. I'm a software developer.Check out my work](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif "Mahdial")](https://danbamikiya.github.io/danBamikiya/)<p>
+# <p align='center'>[![Hey there, I'm It's Mahdi. I'm a software developer.Check out my work](https://github.com/retral299/retral299/edit/main//6tIB.gif
+"Mahdial")](https://danbamikiya.github.io/danBamikiya/)<p>
 
 
 
 <!-- Greeting -->
 
-#### Hey everyone <img src="https://github.com/retral299/retral299/edit/main//6tIB.gif" width="20px">
+#### Hey everyone <img src="" width="20px">
 
 <!-- About -->
 <strong>I</strong> am a telecommunication programmer who developing ML and RL algorithms
