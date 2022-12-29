@@ -19,7 +19,7 @@ Programming languages and main skills:
  - Embedded C
          
 
-Other interests: Game theory, DQN & Multi Agent reinforecement learning
+Other interests: Game theory, Cyber security & Multi Agent reinforecement learning
 
 <br />
 <h2 id="contributions">Projects I'm proud of</h2>
