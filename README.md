@@ -11,7 +11,7 @@
 <!-- About -->
 <strong>I</strong> am a telecommunication programmer who developing ML and RL algorithms
             
-Programming languages and main skills: 
+Main programming languages and skills: 
             
  - Python3
  - SQL
