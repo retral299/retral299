@@ -1,6 +1,6 @@
 
 
-# <p align='center'>[![Hey there, I'm Dan. I'm a software developer. Check out my work](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif "Dan Bamikiya")](https://danbamikiya.github.io/danBamikiya/)<p>
+# <p align='center'>[![Hey there, I'm Mahdi. I'm a Programmer. Check out my work](https://raw.githubusercontent.com/retral299/retral299/main/6tIB.gif "Dan Bamikiya")](https://danbamikiya.github.io/danBamikiya/)<p>
 
 
 
